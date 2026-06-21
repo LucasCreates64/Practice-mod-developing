@@ -1,4 +1,4 @@
-package com.lucascreates.practice;
+package com.lucascreates.lucascreatespractice;
 
 import java.util.List;
 
