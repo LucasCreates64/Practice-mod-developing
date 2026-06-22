@@ -7,7 +7,7 @@
 
 "files": [
   {
-    "source": "src/main/resources/assets/lucascreatespractice/lang/en_US.json",
+    "source": "src/main/resources/assets/lucascreatespractice/lang/en_us.json",
     "translation": "src/main/resources/assets/lucascreatespractice/lang/%locale_with_underscore%.json"
   },
 ]
