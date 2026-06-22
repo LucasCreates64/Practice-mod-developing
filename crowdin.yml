@@ -1,0 +1,13 @@
+"project_id": "907947"
+"api_token_env: ": "CROWDIN_PERSONAL_TOKEN"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "src/main/resources/assets/lucascreatespractice/lang/en_US.json",
+    "translation": "src/main/resources/assets/lucascreatespractice/lang/%locale_with_underscore%.json"
+  },
+]
