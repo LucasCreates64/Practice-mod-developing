@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Élément de test",
   "item.lucascreatespractice.raw_test_item": "Objet de test brut",
-  "block.lucascreatespractice.test_block": "Tester le bloc"
+  "block.lucascreatespractice.test_block": "Tester le bloc",
+  "block.lucascreatespractice.test_ore": "Tester le minerai"
 }

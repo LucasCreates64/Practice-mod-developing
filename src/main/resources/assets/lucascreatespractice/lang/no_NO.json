@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Test element",
   "item.lucascreatespractice.raw_test_item": "Rå testelement",
-  "block.lucascreatespractice.test_block": "Prøve blokk"
+  "block.lucascreatespractice.test_block": "Prøve blokk",
+  "block.lucascreatespractice.test_ore": "Test malm"
 }

@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Тестовый элемент",
   "item.lucascreatespractice.raw_test_item": "Тестовый предмет сырых данных",
-  "block.lucascreatespractice.test_block": "Тестовый блок"
+  "block.lucascreatespractice.test_block": "Тестовый блок",
+  "block.lucascreatespractice.test_ore": "Тест руды"
 }

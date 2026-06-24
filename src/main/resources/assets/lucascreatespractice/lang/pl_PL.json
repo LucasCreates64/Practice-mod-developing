@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Element testowy",
   "item.lucascreatespractice.raw_test_item": "Surowy element testowy",
-  "block.lucascreatespractice.test_block": "Blok testowy"
+  "block.lucascreatespractice.test_block": "Blok testowy",
+  "block.lucascreatespractice.test_ore": "Ruda testowa"
 }

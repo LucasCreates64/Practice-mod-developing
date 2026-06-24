@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Test Item",
   "item.lucascreatespractice.raw_test_item": "Raw Test Item",
-  "block.lucascreatespractice.test_block": "Test Block"
+  "block.lucascreatespractice.test_block": "Test Block",
+  "block.lucascreatespractice.test_ore": "Test Ore"
 }

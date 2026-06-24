@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "テストアイテム",
   "item.lucascreatespractice.raw_test_item": "生のテスト項目",
-  "block.lucascreatespractice.test_block": "テストブロック"
+  "block.lucascreatespractice.test_block": "テストブロック",
+  "block.lucascreatespractice.test_ore": "テスト鉱石"
 }

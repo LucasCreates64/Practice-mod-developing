@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Item de teste",
   "item.lucascreatespractice.raw_test_item": "Item de teste bruto",
-  "block.lucascreatespractice.test_block": "Bloco de teste"
+  "block.lucascreatespractice.test_block": "Bloco de teste",
+  "block.lucascreatespractice.test_ore": "Teste Minério"
 }

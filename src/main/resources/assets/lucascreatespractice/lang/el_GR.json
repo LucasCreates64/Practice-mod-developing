@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Δοκιμαστικό Στοιχείο",
   "item.lucascreatespractice.raw_test_item": "Ακατέργαστο Στοιχείο Δοκιμής",
-  "block.lucascreatespractice.test_block": "Δοκιμή Κύβου"
+  "block.lucascreatespractice.test_block": "Δοκιμή Κύβου",
+  "block.lucascreatespractice.test_ore": "Μετάλλευμα Δοκιμής"
 }

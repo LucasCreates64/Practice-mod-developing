@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Test-Element",
   "item.lucascreatespractice.raw_test_item": "Roh-Test-Element",
-  "block.lucascreatespractice.test_block": "Test-Block"
+  "block.lucascreatespractice.test_block": "Test-Block",
+  "block.lucascreatespractice.test_ore": "Erz testen"
 }

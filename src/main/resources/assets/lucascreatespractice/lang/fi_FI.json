@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Testaa Kohde",
   "item.lucascreatespractice.raw_test_item": "Raaka testituote",
-  "block.lucascreatespractice.test_block": "Testaa Lohko"
+  "block.lucascreatespractice.test_block": "Testaa Lohko",
+  "block.lucascreatespractice.test_ore": "Testaa Ore"
 }

@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "Testovací položka",
   "item.lucascreatespractice.raw_test_item": "Syrová zkušební položka",
-  "block.lucascreatespractice.test_block": "Testovací blok"
+  "block.lucascreatespractice.test_block": "Testovací blok",
+  "block.lucascreatespractice.test_ore": "Testovat rudu"
 }

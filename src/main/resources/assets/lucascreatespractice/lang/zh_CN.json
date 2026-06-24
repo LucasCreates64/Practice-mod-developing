@@ -1,5 +1,6 @@
 {
   "item.lucascreatespractice.test_item": "测试项",
   "item.lucascreatespractice.raw_test_item": "原始测试项",
-  "block.lucascreatespractice.test_block": "测试块"
+  "block.lucascreatespractice.test_block": "测试块",
+  "block.lucascreatespractice.test_ore": "测试矿石"
 }
