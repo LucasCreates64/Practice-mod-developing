@@ -58,6 +58,10 @@ public class Practice {
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.TEST_BLOCK);
         }
+
+        if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
+            event.accept(ModBlocks.TEST_ORE);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
