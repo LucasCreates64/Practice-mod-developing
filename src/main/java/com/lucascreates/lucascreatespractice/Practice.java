@@ -1,5 +1,6 @@
 package com.lucascreates.lucascreatespractice;
 
+import com.lucascreates.lucascreatespractice.block.ModBlocks;
 import com.lucascreates.lucascreatespractice.item.ModItems;
 import org.slf4j.Logger;
 
@@ -34,6 +35,7 @@ public class Practice {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -51,6 +53,10 @@ public class Practice {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.TEST_ITEM);
             event.accept(ModItems.RAW_TEST_ITEM);
+        }
+
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.TEST_BLOCK);
         }
     }
 
