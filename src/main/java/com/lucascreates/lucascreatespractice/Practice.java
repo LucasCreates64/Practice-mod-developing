@@ -1,6 +1,7 @@
 package com.lucascreates.lucascreatespractice;
 
 import com.lucascreates.lucascreatespractice.block.ModBlocks;
+import com.lucascreates.lucascreatespractice.item.ModCreativeModeTabs;
 import com.lucascreates.lucascreatespractice.item.ModItems;
 import org.slf4j.Logger;
 
@@ -36,6 +37,7 @@ public class Practice {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModCreativeModeTabs.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
