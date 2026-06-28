@@ -2,5 +2,7 @@
   "item.lucascreatespractice.test_item": "Test item",
   "item.lucascreatespractice.raw_test_item": "Ruwe test item",
   "block.lucascreatespractice.test_block": "Test blok",
-  "block.lucascreatespractice.test_ore": "Test Erts"
+  "block.lucascreatespractice.test_ore": "Test Erts",
+  "creativetab.lucascreatespractice.test_items_tab": "Test items",
+  "creativetab.lucascreatespractice.test_blocks_tab": "Test blokken"
 }

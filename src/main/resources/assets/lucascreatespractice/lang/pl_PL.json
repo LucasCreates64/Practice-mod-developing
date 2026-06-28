@@ -2,5 +2,7 @@
   "item.lucascreatespractice.test_item": "Element testowy",
   "item.lucascreatespractice.raw_test_item": "Surowy element testowy",
   "block.lucascreatespractice.test_block": "Blok testowy",
-  "block.lucascreatespractice.test_ore": "Ruda testowa"
+  "block.lucascreatespractice.test_ore": "Ruda testowa",
+  "creativetab.lucascreatespractice.test_items_tab": "Elementy testowe",
+  "creativetab.lucascreatespractice.test_blocks_tab": "Bloki testowe"
 }

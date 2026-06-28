@@ -2,5 +2,7 @@
   "item.lucascreatespractice.test_item": "Element de încercare",
   "item.lucascreatespractice.raw_test_item": "Element de încercare crud",
   "block.lucascreatespractice.test_block": "Bloc de testare",
-  "block.lucascreatespractice.test_ore": "Minereu de test"
+  "block.lucascreatespractice.test_ore": "Minereu de test",
+  "creativetab.lucascreatespractice.test_items_tab": "Elemente de test",
+  "creativetab.lucascreatespractice.test_blocks_tab": "Blocuri de test"
 }

@@ -2,5 +2,7 @@
   "item.lucascreatespractice.test_item": "Test-Element",
   "item.lucascreatespractice.raw_test_item": "Roh-Test-Element",
   "block.lucascreatespractice.test_block": "Test-Block",
-  "block.lucascreatespractice.test_ore": "Erz testen"
+  "block.lucascreatespractice.test_ore": "Erz testen",
+  "creativetab.lucascreatespractice.test_items_tab": "Test-Elemente",
+  "creativetab.lucascreatespractice.test_blocks_tab": "Testblöcke"
 }

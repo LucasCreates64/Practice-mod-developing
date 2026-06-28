@@ -2,5 +2,7 @@
   "item.lucascreatespractice.test_item": "Elemento de prueba",
   "item.lucascreatespractice.raw_test_item": "Objeto de prueba inestable",
   "block.lucascreatespractice.test_block": "Probar bloque",
-  "block.lucascreatespractice.test_ore": "Probar mineral"
+  "block.lucascreatespractice.test_ore": "Probar mineral",
+  "creativetab.lucascreatespractice.test_items_tab": "Probar elementos",
+  "creativetab.lucascreatespractice.test_blocks_tab": "Probar Bloques"
 }
